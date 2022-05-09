@@ -1,0 +1,27 @@
+{
+  "name": "goit-js-hw-08",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snizhana15/goit-js-hw-08.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Snizhana15/goit-js-hw-08/issues"
+  },
+  "homepage": "https://github.com/Snizhana15/goit-js-hw-08",
+  "dependencies": {
+    "@vimeo/player": "^2.16.4",
+    "lodash.throttle": "^4.1.1",
+    "simplelightbox": "^2.10.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
